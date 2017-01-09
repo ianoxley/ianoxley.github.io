@@ -1,0 +1,14 @@
+---
+date: '2011-04-11 20:48:12'
+layout: post
+slug: what-if
+status: publish
+title: What if...
+wordpress_id: '463'
+categories:
+- quotes
+---
+
+> if you ask a “what if?” question and leave it unanswered, you should be ashamed
+
+From [http://ajaxian.com/archives/web-ninja-interview-marcin-wichary-creator-of-google-pacman-logo-html5-slide-deck-and-more](http://ajaxian.com/archives/web-ninja-interview-marcin-wichary-creator-of-google-pacman-logo-html5-slide-deck-and-more)

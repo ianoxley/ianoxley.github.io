@@ -1,0 +1,18 @@
+---
+date: '2010-04-27 22:18:29'
+layout: post
+slug: using-git
+status: publish
+title: Using Git
+wordpress_id: '349'
+categories:
+- devtools
+tags:
+- git
+---
+
+Since going freelance at the end of last month I made the conscious decision to use [Git](http://git-scm.com/) for my source control on freelance projects. I'd kind of used it a bit when adding stuff to [GitHub](http://github.com/) but hadn't really used it in anger on anything. Until now. And so far so good.
+
+Quite a nifty little cheatsheet I found was this: [http://cheat.errtheblog.com/s/git](http://cheat.errtheblog.com/s/git)
+
+I really like the aliases and colour-coding - simple stuff but these save you a lot of typing / keystrokes and make it easier to see at a glance what's what respectively :)

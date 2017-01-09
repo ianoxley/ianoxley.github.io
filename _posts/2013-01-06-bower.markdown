@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Bower article on JSPro.com"
+date: 2013-01-06 21:46
+comments: false
+categories: [javascript]
+---
+
+I've had an article published on [JSPro.com](http://JSPro.com), SitePoint's new
+site for all things JavaScript. My article is on Bower, the browser package
+manager, and covers installing it, using it to install, update, and
+delete packages, and how you can publish your own packages. 
+
+You can read it here: [Package Management for the Browser with
+Bower](http://jspro.com/toolsandlibraries/package-management-for-the-browser-with-bower/).
