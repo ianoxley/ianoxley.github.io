@@ -6,7 +6,7 @@ tags: jekyll
 ---
 
 I've been running my blog on Octopress for the past 3 years. It has served me
-pretty well. But I couldn't shake the feeling that I was running my site on
+well. But I couldn't shake the feeling that my site was running on
 someone else's Jekyll blog, as that - somewhat harshly - is what Octopress
 essentially is.
 
@@ -18,12 +18,10 @@ reasonably straight forwards:
     * `gem install jekyll`
     * `jekyll new my-site && cd $_`
 
-2. Copied over the contents of my Octopress `source/_posts` to Jekyll's
+2. Copied my Octopress `source/_posts` directory to Jekyll's
    `_posts` directory
 
-3. Copied over any static resources to the Jekyll root folder e.g. favicons,
-   and if you're hosting on GitHub Pages as I am, your `CNAME` file.
+3. Copied my static resources to the Jekyll root folder e.g. favicons and my
+   `CNAME` file.
 
-And that was pretty much it!
-
-
+And that was it!
