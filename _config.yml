@@ -33,6 +33,9 @@ google_analytics: UA-12602684-1
 
 permalink: /blog/:year/:month/:day/:slug
 
+sass:
+  style: compressed
+
 # Build settings
 markdown: kramdown
 theme: minima
