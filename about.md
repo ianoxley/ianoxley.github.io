@@ -10,7 +10,14 @@ I'm Ian, a programmer based in Newcastle-upon-Tyne, England. I have been writing
 
 I also play the guitar. One that looks like this:
 
-![Gibson Flying V in cherry red](http://i203.photobucket.com/albums/aa311/mandoytz/GibsonFlyingV1968-DSVRCHCH1.jpg)
+<picture>
+  <source media="(min-width: 400px)" srcset="/assets/img/gibson_flying_v_400.jpg">
+  <source media="(min-width: 800px)" srcset="/assets/img/gibson_flying_v_800.jpg">
+  <source media="(min-width: 2048px)" srcset="/assets/img/gibson_flying_v_2048.jpg">
+  <img src="/assets/img/gibson_flying_v_800.jpg" alt="Gibson Flying V guitar in
+cherry red">
+</picture>
+*Image source: [https://flic.kr/p/cHZ7eA](https://flic.kr/p/cHZ7eA)*
 
 Aside from here, you can also find me online at:
 
