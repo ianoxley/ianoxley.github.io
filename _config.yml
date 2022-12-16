@@ -31,9 +31,6 @@ minima:
     - { platform: mastodon, user_url: 'https://mastodon.social/@ianoxley', title: 'Mastodon' }
     - { platform: stackoverflow, user_url: 'https://stackoverflow.com/users/1904/ian-oxley', title: 'Stack Overflow' }
 
-disqus:
-    shortname: ianoxley
-
 google_analytics: UA-12602684-1
 
 permalink: /blog/:year/:month/:day/:slug
