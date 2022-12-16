@@ -1,0 +1,18 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <p>{{ site.description | escape }}</p>
+      </div>
+      <div class="footer-col footer-col-2">
+        <div class="social-links">
+          {%- include social.html -%}
+        </div>
+      </div>
+      <div class="footer-col footer-col-3">
+        <p>{{ site.disclaimer | escape }}</p>
+      </div>
+    </div>
+  </div>
+</footer>
