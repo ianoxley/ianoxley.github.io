@@ -19,17 +19,30 @@ disclaimer: >
   those of my employer.
 # email: ian@ianoxley.com
 description: > # this means to ignore newlines until "baseurl:"
-  Notes on web development and other miscellany. 
+  Notes on software development and other miscellany. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.ianoxley.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.ianoxley.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+author:
+  name: Ian Oxley
 
 minima:
   social_links:
-    - { platform: github, user_url: 'https://github.com/ianoxley', title: 'GitHub' }
-    - { platform: instagram, user_url: 'https://instagram.com/ianoxley', title: 'Instagram' }
-    - { platform: linkedin, user_url: 'https://www.linkedin.com/in/ianoxley', title: 'LinkedIn' }
-    - { platform: mastodon, user_url: 'https://mastodon.social/@ianoxley', title: 'Mastodon' }
-    - { platform: stackoverflow, user_url: 'https://stackoverflow.com/users/1904/ian-oxley', title: 'Stack Overflow' }
+    - platform: github
+      user_url: 'https://github.com/ianoxley'
+      title: 'GitHub'
+    - platform: instagram
+      user_url: 'https://instagram.com/ianoxley'
+      title: 'Instagram'
+    - platform: linkedin
+      user_url: 'https://www.linkedin.com/in/ianoxley'
+      title: 'LinkedIn'
+    - platform: mastodon
+      user_url: 'https://mastodon.social/@ianoxley'
+      title: 'Mastodon'
+    - platform: stackoverflow
+      user_url: 'https://stackoverflow.com/users/1904/ian-oxley'
+      title: 'Stack Overflow'
 
 google_analytics: UA-12602684-1
 
