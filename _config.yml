@@ -28,11 +28,21 @@ author:
 
 minima:
   social_links:
-    - { platform: github, user_url: 'https://github.com/ianoxley', title: 'GitHub' }
-    - { platform: instagram, user_url: 'https://instagram.com/ianoxley', title: 'Instagram' }
-    - { platform: linkedin, user_url: 'https://www.linkedin.com/in/ianoxley', title: 'LinkedIn' }
-    - { platform: mastodon, user_url: 'https://mastodon.social/@ianoxley', title: 'Mastodon' }
-    - { platform: stackoverflow, user_url: 'https://stackoverflow.com/users/1904/ian-oxley', title: 'Stack Overflow' }
+    - platform: github
+      user_url: 'https://github.com/ianoxley'
+      title: 'GitHub'
+    - platform: instagram
+      user_url: 'https://instagram.com/ianoxley'
+      title: 'Instagram'
+    - platform: linkedin
+      user_url: 'https://www.linkedin.com/in/ianoxley'
+      title: 'LinkedIn'
+    - platform: mastodon
+      user_url: 'https://mastodon.social/@ianoxley'
+      title: 'Mastodon'
+    - platform: stackoverflow
+      user_url: 'https://stackoverflow.com/users/1904/ian-oxley'
+      title: 'Stack Overflow'
 
 google_analytics: UA-12602684-1
 
