@@ -23,6 +23,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ianoxley.com" # the base hostname & protocol for your site, e.g. http://example.com
 
+author:
+  name: Ian Oxley
+
 minima:
   social_links:
     - { platform: github, user_url: 'https://github.com/ianoxley', title: 'GitHub' }
