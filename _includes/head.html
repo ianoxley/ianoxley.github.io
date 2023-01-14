@@ -4,6 +4,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="Permissions-Policy" content="interest-cohort()">
   {%- seo -%}
+  {% comment %}
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  {% endcomment %}
   <style>
     {% capture inline_styles %}
       {% include main.css %}
@@ -14,4 +17,5 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+  {%- include custom-head.html -%}
 </head>
