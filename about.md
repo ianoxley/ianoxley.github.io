@@ -22,8 +22,8 @@ cherry red">
 Aside from here, you can also find me online at:
 
 * <a href="//www.flickr.com/ianoxley" rel="me" class="flickr">Flickr</a>
-* <a href="http://instagram.com/ianoxley" rel="me" class="instagram">Instagram</a>
-* <a href="http://www.last.fm/user/ijoxley" rel="me" class="lastfm">Last.fm</a>
-* <a href="http://uk.linkedin.com/in/ianoxley" rel="me" class="linkedin">LinkedIn</a>
-* <a href="http://stackoverflow.com/users/1904/ian-oxley" rel="me" class="stackoverflow">Stack Overflow</a>
-* <a href="//twitter.com/ianoxley" rel="me" class="twitter">Twitter</a>
+* <a href="https://instagram.com/ianoxley" rel="me" class="instagram">Instagram</a>
+* <a href="https://uk.linkedin.com/in/ianoxley" rel="me" class="linkedin">LinkedIn</a>
+* <a rel="me" href="https://mastodon.social/@ianoxley">Mastodon</a>
+* <a href="https://stackoverflow.com/users/1904/ian-oxley" rel="me" class="stackoverflow">Stack Overflow</a>
+* <a href="https://twitter.com/ianoxley" rel="me" class="twitter">Twitter</a>
