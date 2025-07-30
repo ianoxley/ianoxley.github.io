@@ -26,4 +26,3 @@ Aside from here, you can also find me online at:
 * <a href="https://uk.linkedin.com/in/ianoxley" rel="me" class="linkedin">LinkedIn</a>
 * <a rel="me" href="https://mastodon.social/@ianoxley">Mastodon</a>
 * <a href="https://stackoverflow.com/users/1904/ian-oxley" rel="me" class="stackoverflow">Stack Overflow</a>
-* <a href="https://twitter.com/ianoxley" rel="me" class="twitter">Twitter</a>
