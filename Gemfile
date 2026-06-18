@@ -1,5 +1,7 @@
-source "https://rubygems.org"
-ruby RUBY_VERSION
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+ruby file: '.ruby-version'
 
 gem 'base64'
 gem 'csv'
