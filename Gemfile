@@ -1,5 +1,7 @@
-source "https://rubygems.org"
-ruby RUBY_VERSION
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+ruby file: '.ruby-version'
 
 gem 'base64'
 gem 'csv'
@@ -25,7 +27,6 @@ gem 'webrick'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-   gem 'jekyll-feed', '~> 0.6'
-   gem 'jemoji'
+  gem 'jekyll-feed', '~> 0.6'
+  gem 'jemoji'
 end
-
